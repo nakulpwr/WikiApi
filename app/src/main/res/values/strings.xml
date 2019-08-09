@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">WikiApi</string>
+    <string name="wiki_search">Wiki Search</string>
+</resources>
